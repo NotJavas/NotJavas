@@ -12,7 +12,7 @@
 Originario de Hidalgo y forjando futuro en **Querétaro**. Soy un estudiante de la **Universidad Autónoma de Querétaro (UAQ)**.
 
 *  **En la cancha:** Colocador/Centro en Volleyball & Boxeo estilo mexicano.
-*  **En la PC:** Entusiasta del Hardware, Custom PCs y mundos abiertos (Cyberpunk, The Witcher, Minecraft).
+*  **En la PC:** Entusiasta del Hardware, Custom PCs y mundos abiertos.
 *  **Interés actual:** Aprendiendo Japonés e Italiano.
 
 ---
