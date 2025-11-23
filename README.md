@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Javas 👋</h1>
+<h1 align="center">Hola, soy Javas </h1>
 <h3 align="center">Ingeniero | Programador | Gamer | Deportista</h3>
 
 <p align="center">
@@ -52,7 +52,7 @@ Originario de Hidalgo y forjando futuro en **Querétaro**. Soy un estudiante de 
 
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
-| **Sistema Escolar ** | Gestión completa (CRUD) de alumnos y maestros con reportes en Excel y UI Dark Mode. | `C#` `WPF` `SQLite` |
+| **Sistema Escolar** | Gestión completa (CRUD) de alumnos y maestros con reportes en Excel y UI Dark Mode. | `C#` `WPF` `SQLite` |
 | **Sand Simulation** | Motor de física de partículas (arena) estilo "Noita". | `C#` `MonoGame` |
 | **Hackathon ANIEI 2025** | Propuestas tecnológicas basadas en los ODS de la ONU. | `Innovation` `Tech` |
 | **Net-Audit** | Pruebas de rendimiento de red y latencia entre nodos domésticos. | `iperf3` `Wireshark` |
@@ -62,7 +62,6 @@ Originario de Hidalgo y forjando futuro en **Querétaro**. Soy un estudiante de 
 ### ⚡ Stats de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NotJavas&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotJavas&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
 </div>
 
